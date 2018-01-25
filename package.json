@@ -1,0 +1,24 @@
+{
+  "name": "repka",
+  "version": "0.0.1",
+  "description": "Private git-repository as npm-dependency",
+  "keywords": ["repka", "private", "git", "repository", "repo", "npm-dependency", "yarn-dependency"],
+  "license": "MIT",
+  "author": {
+    "name": "Cyril Neruchev",
+    "email": "cyril.neruchev@gmail.com"
+  },
+  "homepage": "https://github.com/neruchev/repka",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:neruchev/repka.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neruchev/repka/issues"
+  },
+  "bin" : {
+    "repka": "cli.js"
+  },
+  "main": "cli.js",
+  "scripts": {}
+}
