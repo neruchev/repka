@@ -1,6 +1,6 @@
 {
   "name": "repka",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Private git-repository as npm-dependency",
   "keywords": ["repka", "private", "git", "repository", "repo", "npm-dependency", "yarn-dependency"],
   "license": "MIT",
